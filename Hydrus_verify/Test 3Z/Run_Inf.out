@@ -1,0 +1,11 @@
+ ******* Program HYDRUS
+ ******* 
+ Welcome to HYDRUS-1D                                                    
+ Date:  23. 6.    Time:  18:57:14
+ Units: L = m    , T = days , M = mmol 
+
+
+    TLevel      Time          dt      Iter    ItCum  KodT  KodB  Convergency
+
+      124  0.1000000E+01  0.51411E-02    2      248    -1    -1     T
+end

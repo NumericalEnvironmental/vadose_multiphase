@@ -1,0 +1,9 @@
+dt_0	10
+dt_min	1e-5
+dt_max	1000
+dP_max	50
+dt_down_f	0.5
+dt_up_f	1.5
+t_end	86400
+print_interval	86400
+solver_type	1

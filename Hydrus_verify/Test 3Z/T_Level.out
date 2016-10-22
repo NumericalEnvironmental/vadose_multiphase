@@ -1,0 +1,11 @@
+ ******* Program HYDRUS
+ ******* 
+ Welcome to HYDRUS-1D                                                    
+ Date:  23. 6.    Time:  18:57:14
+ Units: L = m    , T = days , M = mmol 
+
+       Time          rTop        rRoot        vTop         vRoot        vBot       sum(rTop)   sum(rRoot)    sum(vTop)   sum(vRoot)    sum(vBot)      hTop         hRoot        hBot        RunOff    sum(RunOff)     Volume     sum(Infil)    sum(Evap) TLevel Cum(WTrans)  SnowLayer
+        [T]         [L/T]        [L/T]        [L/T]        [L/T]        [L/T]         [L]          [L]          [L]         [L]           [L]         [L]           [L]         [L]          [L/T]         [L]          [L]          [L]          [L]
+
+       1.0000  0.00000E+00  0.00000E+00  0.50932E-08  0.00000E+00 -0.23071E-06  0.00000E+00  0.00000E+00 -0.83820E-10  0.00000E+00 -0.11176E-08 -0.77876E+00  0.00000E+00 -0.71576E-01  0.00000E+00  0.00000E+00  0.18096E+00  0.00000E+00  0.57075E-08    124  0.00000E+00      0.000
+end
