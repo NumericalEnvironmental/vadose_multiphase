@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.rb linguist-language=Python
+*.rb linguist-language=python
